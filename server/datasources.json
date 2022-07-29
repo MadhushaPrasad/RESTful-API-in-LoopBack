@@ -1,9 +1,10 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
+    "connector": "memory",
+    "file": "db.json"
   },
-  "Mysql": {
+  "_Mysql": {
     "host": "127.0.0.1",
     "port": 3306,
     "url": "",

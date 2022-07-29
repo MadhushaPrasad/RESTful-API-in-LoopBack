@@ -5,7 +5,7 @@
     "ACL": 1,
     "RoleMapping": 1,
     "Role": 1,
-    "City": 3,
+    "City": 4,
     "Region": 1
   },
   "models": {
@@ -16,7 +16,8 @@
     "Role": {},
     "City": {
       "1": "{\"name\":\"Kalutara\",\"id\":1}",
-      "2": "{\"name\":\"Colombo\",\"id\":2}"
+      "2": "{\"name\":\"Colombo\",\"id\":2}",
+      "3": "{\"name\":\"Kurunagala\",\"id\":3}"
     },
     "Region": {}
   }
